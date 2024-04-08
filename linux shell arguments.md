@@ -1,3 +1,4 @@
+# linux shell arguments
 ```shell
 #!/bin/bash
 # Script to process input arguments
